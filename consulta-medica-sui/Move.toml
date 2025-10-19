@@ -1,0 +1,20 @@
+[package]
+name = "consulta_medica_sui"
+version = "0.1.0"
+authors = ["LILIANA JAMILEHT LOPEZ LUGO <2523160154@e.uttecamac.edu.mx>"]
+license = "MIT"
+edition = "2024.beta"
+
+[build]
+language_version = "2024.0.0"
+
+[dependencies]
+# dejar vacío o añadir dependencias con { git = "...", rev = "..." } o { path = "../ruta_local" }
+
+[addresses]
+automoviles = "0x0"
+consulta_medica_sui = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses]
